@@ -1,4 +1,4 @@
-// Checked Temparature
+// Checked Temperature
 function checkTemparature(tem){
     let temp = tem;
     if(temp >= 35){
